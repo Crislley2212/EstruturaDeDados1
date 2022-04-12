@@ -11,4 +11,4 @@ Link replit --> https://replit.com/@CrislleyPborga/ListaEncadeadaCrislley#main.c
 
                               *******Lista encadeada Dupla*******
                               
-Link replit --> https://replit.com/@CrislleyPborga/ListaEncadeadaDupla#main.c       
+Link replit --> https://replit.com/@CrislleyPborga/ListaEncadeadaDupla20      
