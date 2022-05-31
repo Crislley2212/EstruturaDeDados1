@@ -24,5 +24,5 @@ Exercícios 2 e 3 --> https://replit.com/@CrislleyPborga/Exercicio2Fila#main.c
 
                           ******Lista de exercicios sobre pilhas**********
                           
-Exercicio 1 --> 
+Exercicio 1 --> https://replit.com/@CrislleyPborga/ExercicioPilha#main.c
               
