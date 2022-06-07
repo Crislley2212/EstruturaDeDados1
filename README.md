@@ -28,7 +28,7 @@ Exercicio 1 --> https://replit.com/@CrislleyPborga/ExercicioPilha#main.c
 
 
 
-                        **** Seminario  *****
+                        **** Seminário  *****
                         
-Link --> 
+Link --> https://www.canva.com/design/DAFCyUja6j0/nPbeUw-kes_2A2AuhfgbAQ/edit?utm_content=DAFCyUja6j0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
               
