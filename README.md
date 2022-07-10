@@ -31,4 +31,8 @@ Exercicio 1 --> https://replit.com/@CrislleyPborga/ExercicioPilha#main.c
                         **** Seminário  *****
                         
 Link --> https://www.canva.com/design/DAFCyUja6j0/nPbeUw-kes_2A2AuhfgbAQ/edit?utm_content=DAFCyUja6j0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Trabalho Final código--> https://replit.com/@CrislleyPborga/TrabFinalEd1#main.c
+Trabalho Final relatório --> https://docs.google.com/document/d/12gEC3LRtZIzwm1PLeuZyi9mj6GQgP4Q5He7d15QoXgg/edit
+
               
