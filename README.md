@@ -63,7 +63,10 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
 	Este trabalho foi uma ótima maneira de aprender a tabela hash, pois pude aproveitar vários 
 	métodos da lista encadeada dupla e aprimorar para a tabela hash, fazendo com que ficasse mais 
 	fácil a realização do mesmo. 
-
+	
+	No arquivo nomes.txt tem todos os nomes que devem ser adicionado para fazer o upload para 
+	a lista hash, e o dados.txt é o responsável pelos dados de quantos nomes estão em cada chave;
+	
 
 
               
