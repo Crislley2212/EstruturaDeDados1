@@ -53,12 +53,16 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
       
 
 # 3.   Considerações Finais
-	O gráfico abaixo representa a quantidade de elementos por chave, no trabalho temos 53 chaves e nela temos uma média de 1901.66037736 nomes por tabela
+	O gráfico abaixo representa a quantidade de elementos por chave, no trabalho temos 53 chaves e nela temos uma 
+	média de 1901.66037736 nomes por tabela
 	Link para o grafico --> https://drive.google.com/file/d/1fdkuvZg_qXdzGpPjBGRrY4ZxLSRX4EIc/view?usp=sharing
   
 
-	A distribuição da quantidade de elementos por chave pode ser aproximada com uma distribuição normal com desvio padrão de 45.1822069655.
-	Este trabalho foi uma ótima maneira de aprender a tabela hash, pois pude aproveitar vários métodos da lista encadeada dupla e aprimorar para a tabela hash, fazendo com que ficasse mais fácil a realização do mesmo. 
+	A distribuição da quantidade de elementos por chave pode ser aproximada com uma distribuição 
+	normal com desvio padrão de 45.1822069655.
+	Este trabalho foi uma ótima maneira de aprender a tabela hash, pois pude aproveitar vários 
+	métodos da lista encadeada dupla e aprimorar para a tabela hash, fazendo com que ficasse mais 
+	fácil a realização do mesmo. 
 
 
 
