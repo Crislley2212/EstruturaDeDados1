@@ -55,10 +55,10 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
 # 3.   Considerações Finais
 	O gráfico abaixo representa a quantidade de elementos por chave, no trabalho temos 53 chaves e nela temos uma 
 	média de 1901.66037736 nomes por tabela
-	Link para o grafico --> https://drive.google.com/file/d/1fdkuvZg_qXdzGpPjBGRrY4ZxLSRX4EIc/view?usp=sharing
-	<img src="" >
-		<img src="[imagem.jpg](https://user-images.githubusercontent.com/47753376/178259694-10ed1cc5-d052-446f-9f33-42d761ff8b02.png)" alt="Grafico">
-
+	Link para o grafico --> 
+	![image](https://user-images.githubusercontent.com/47753376/178260113-55129f5d-d498-416b-b6a6-c086744bce9d.png)
+	
+	<img src="https://user-images.githubusercontent.com/47753376/178260113-55129f5d-d498-416b-b6a6-c086744bce9d.png">
 
   
 
