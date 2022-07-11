@@ -55,10 +55,9 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
 # 3.   Considerações Finais
 	O gráfico abaixo representa a quantidade de elementos por chave, no trabalho temos 53 chaves e nela temos uma 
 	média de 1901.66037736 nomes por tabela
-	Grafico --> 
 	
 	
-	<img src="https://user-images.githubusercontent.com/47753376/178260113-55129f5d-d498-416b-b6a6-c086744bce9d.png"/>
+	
 
   
 
@@ -70,7 +69,11 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
 	
 	No arquivo nomes.txt tem todos os nomes que devem ser adicionado para fazer o upload para 
 	a lista hash, e o dados.txt é o responsável pelos dados de quantos nomes estão em cada chave;
-	
+	Grafico --> 
+
+
+
+<img src="https://user-images.githubusercontent.com/47753376/178260113-55129f5d-d498-416b-b6a6-c086744bce9d.png"/>
 	
 
 
