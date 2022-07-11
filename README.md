@@ -56,7 +56,7 @@ Este trabalho, que foi realizado em linguagem de programação C, tem como objet
 	O gráfico abaixo representa a quantidade de elementos por chave, no trabalho temos 53 chaves e nela temos uma 
 	média de 1901.66037736 nomes por tabela
 	Link para o grafico --> https://drive.google.com/file/d/1fdkuvZg_qXdzGpPjBGRrY4ZxLSRX4EIc/view?usp=sharing
-	<img src="https://user-images.githubusercontent.com/47753376/178259694-10ed1cc5-d052-446f-9f33-42d761ff8b02.png" />
+	<img src="https://user-images.githubusercontent.com/47753376/178259694-10ed1cc5-d052-446f-9f33-42d761ff8b02.png">
 
   
 
